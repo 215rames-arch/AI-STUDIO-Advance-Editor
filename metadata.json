@@ -1,0 +1,15 @@
+{
+  "name": "AI Video Editor Advance",
+  "description": "An advanced all-in-one AI-powered creative studio for automated video, photo, audio, and logo editing with smart intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI Video Editing",
+    "Smart Photo Enhancement",
+    "AI Voiceover Generation",
+    "Automated Background Music",
+    "AI Logo Design & Branding"
+  ]
+}
